@@ -22,7 +22,7 @@ int main()
 		printf("Current Health: %d\n", health);
 	}*/
 
-	// for (int 1 = 100, i > 10; --i) // requires 3 pieces of data  - (initializer, condition, expression)
+	// for (int i = 100, i > 10; --i) // requires 3 pieces of data  - (initializer, condition, expression)
 
 	//ex.1
 
