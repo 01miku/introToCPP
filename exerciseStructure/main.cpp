@@ -19,6 +19,8 @@ struct myRectangle {
 	float blue;
 };
 
+
+
 /*
 	An array of characters is a "literal" idea.
 	A string is a "logical" idea.
